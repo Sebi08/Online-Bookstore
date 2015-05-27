@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Carti feature.
+ */
+
+include_once 'carti.features.inc';
